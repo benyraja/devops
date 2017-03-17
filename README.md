@@ -1,2 +1,2 @@
 # devops
-This repository holds solutions for infrastructure related solutions
+This repository holds solutions for infrastructure related issues and automations
